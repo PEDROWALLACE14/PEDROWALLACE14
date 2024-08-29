@@ -1,5 +1,4 @@
-Olá,meu nome é Pedro Wallace, tenho 16 anos.
-Estou estudando no Alura e
+Olá,meu nome é Pedro Wallace, tenho 16 anos. Estudo no Alura e
 estou me desenvolvendo na linguagem JavaScript.
 
 Gosto mais das matérias de exatas no geral e
